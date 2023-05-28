@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/771374a4d1d0091ffb5294ca44fcd899/nuget-populate.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/4e798fb7df6cbfc6ac4dc2e60fd18f9c/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-build.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-download.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-install.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-test.rule"
+		},
+		{
+			"file" : "E:/SDGP/Project RESPERIA/resperia-flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/8ccc328ad8be488e5f305ab1e0841214/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

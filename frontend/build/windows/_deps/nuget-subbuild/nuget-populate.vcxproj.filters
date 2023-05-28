@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\8ccc328ad8be488e5f305ab1e0841214\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\4e798fb7df6cbfc6ac4dc2e60fd18f9c\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\771374a4d1d0091ffb5294ca44fcd899\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\SDGP\Project RESPERIA\resperia-flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6D99D205-9DC3-3F01-9D3A-CE2559C51127}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
